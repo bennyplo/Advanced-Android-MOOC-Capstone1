@@ -1,4 +1,4 @@
-package com.bennyplo.graphics2d;
+package com.bennyplo.androidgraphics;
 
 import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;

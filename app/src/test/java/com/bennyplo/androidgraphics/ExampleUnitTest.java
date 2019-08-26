@@ -1,4 +1,4 @@
-package com.bennyplo.graphics2d;
+package com.bennyplo.androidgraphics;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.bennyplo.graphics2d;
+package com.bennyplo.androidgraphics;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
